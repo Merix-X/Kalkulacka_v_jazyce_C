@@ -33,5 +33,5 @@ main()
         printf("Vysledek je: %d\n", vypocet);
     }
     printf("Stisknete enter pro ukonceni");
-    scanf;
+    scanf();
 }
